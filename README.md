@@ -1,24 +1,3 @@
-# leer_json_vuejs2611_bootstrap4
+# Como Leer un archivo JSON con Vue JS 2.6.11 + Tabla de Bootstrap 4 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Post: https://blog.nubecolectiva.com/como-leer-un-archivo-json-con-vue-js-2-6-11-tabla-de-bootstrap-4/ 
